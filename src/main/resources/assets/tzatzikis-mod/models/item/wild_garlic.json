@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "tzatzikis-mod/textures/item/wild_garlic"
+    "layer0": "tzatzikis-mod:item/wild_garlic"
   }
 }
